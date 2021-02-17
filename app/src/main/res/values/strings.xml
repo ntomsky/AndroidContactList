@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Contact List</string>
+    <string name="button_to_display_the_list_of_contacts">Button to display the list of contacts</string>
+    <string name="button_to_access_settings">Button to access settings</string>
+    <string name="button_to_display_contacts_locations">Button to display contacts locations</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Select">Select</string>
+    <string name="save">Save</string>
+    <string name="testuser">testUser</string>
+    <string name="_123_peach_st">123 Peach st</string>
+    <string name="_12345">12345</string>
+    <string name="_404_122_3424">404-122-3424</string>
+    <string name="_678_122_3322">678-122-3322</string>
+    <string name="testuser_yahoo_com">testuser@yahoo.com</string>
+    <string name="ga">GA</string>
+    <string name="Edit">Edit</string>
+    <string name="Test" />
+    <string name="togglebutton">ToggleButton</string>
+</resources>
